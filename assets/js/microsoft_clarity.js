@@ -5,4 +5,4 @@
    t.src="https://www.clarity.ms/tag/"+i;
    y=l.getElementsByTagName(r)[0];
    y.parentNode.insertBefore(t,y);
-})(window, document, "clarity", "script", "csp4wivxo8");
+})(window, document, "clarity", "script", "tx3zto940q");
